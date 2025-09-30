@@ -1,4 +1,4 @@
-name: Dynamic Databricks Notebook Deploy
+name: Dynamic Databricks Notebook Deploy 1
 on:
   push:
     branches:
@@ -252,4 +252,4 @@ jobs:
         echo "   - tarea2_notebook2 (ntbk_2)"
         echo "Cluster: Serverless configurado"
         echo ""
-        echo "Accede a tu workspace de Databricks para ver el workflow en la sección 'Workflows'"
+
